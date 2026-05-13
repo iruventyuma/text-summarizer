@@ -19,12 +19,7 @@ An end-to-end NLP project that summarizes long text using the DistilBART model, 
 - **ML Library**: Hugging Face Transformers
 - **Deployment**: Hugging Face Spaces (Docker)
 
-## ⚙️ How to Run Locally
-```bash
-pip install -r requirements.txt
-python app.py
-```
-Then open `http://127.0.0.1:7860`
+
 
 ## 🧠 How It Works
 1. User inputs long text
